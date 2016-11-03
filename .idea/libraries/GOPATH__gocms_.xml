@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;gocms&gt;">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../../../nmhmart" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../nmhinnovations" />
+      <root url="file://$PROJECT_DIR$/../../../nmhamerica" />
+      <root url="file://$PROJECT_DIR$/../../../hello" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+    </CLASSES>
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/../../../nmhmart" />
+      <root url="file://$PROJECT_DIR$/../.." />
+      <root url="file://$PROJECT_DIR$/../../../golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../nmhinnovations" />
+      <root url="file://$PROJECT_DIR$/../../../nmhamerica" />
+      <root url="file://$PROJECT_DIR$/../../../hello" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+    </SOURCES>
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
